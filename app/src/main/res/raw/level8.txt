@@ -1,0 +1,15 @@
+Madagascar,294,168
+Hawaii,29,116
+Bahamas,114,95
+Greenland,174,18
+Iceland,206,28
+Tasmania,425,210
+Cuba,105,99
+Mauritius,310,177
+New Zealand,461,203
+Philippines Islands,404,115
+Sri Lanka,341,121
+Taiwan,401,96
+British Isles,216,44
+Jamaica,104,115
+Sumatra,376,135

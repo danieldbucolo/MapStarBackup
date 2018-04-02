@@ -1,0 +1,11 @@
+Medford,45,67
+Bismarek,210,49
+Jefferson City,281,131
+Harrisburg,406,86
+Redding,39,92
+Tulsa,249,155
+Austin,231,213
+Columbus,355,103
+Lincoln,239,110
+Trenton,419,85
+Midland,202,193

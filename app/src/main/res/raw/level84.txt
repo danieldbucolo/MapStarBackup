@@ -1,0 +1,8 @@
+Jordan,27,51
+Yemen,37,134
+Tajikistan,184,78
+Taiwan,401,132
+Mongolia,295,49
+Vietnam,343,173
+Kuwait,67,83
+Syria,46,44

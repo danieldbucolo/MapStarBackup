@@ -1,0 +1,13 @@
+Amazon,145,137
+Mississippi,92,88
+Nile,267,85
+Niger,227,127
+Amur,403,47
+Ganges,358,99
+Parana,141,197
+Yukon,26,32
+lena,386,20
+volga,289,47
+mackenzie,72,24
+congo,242,148
+danube,261,66

@@ -1,0 +1,8 @@
+Aswan,219,78
+Al Jawf,176,74
+Reggane,91,56
+Marrakech,58,32
+Zinder,125,135
+Bissau,12,145
+Jos,121,159
+Kisangani,194,211

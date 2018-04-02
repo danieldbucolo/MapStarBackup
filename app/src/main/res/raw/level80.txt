@@ -1,0 +1,8 @@
+Nampula,263,292
+Matadi,146,246
+Bumba,241,277
+Kaduna,114,156
+Waw,204,168
+Araouane,70,105
+Lubango,153,298
+Blantyre,239,311

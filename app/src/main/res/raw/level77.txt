@@ -1,0 +1,8 @@
+Mbeya,235,266
+Mbandaka,167,220
+Maiduguri,140,147
+Korhogo,60,166
+Al Fashir,205,133
+Timimoun,85,49
+Zaria,117,152
+Eldoret,251,204

@@ -1,0 +1,9 @@
+Santo Domingo,200,63
+Medellin,175, 118
+Arica,197,217
+Natal, 341, 163
+Cuiaba,255,203
+Mendoza,209,268
+Arica,197,215
+Porto Velho,219,168
+Port of Spain,232,96

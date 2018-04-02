@@ -1,0 +1,10 @@
+Caraca, 206, 98
+Tampico,81, 46
+San Salvador,111, 82
+Grenada,232,86
+Merida,113, 53
+Mexico City, 76, 60
+Cordoba, 231, 272
+Sao Paulo,307, 237
+Falkland Islands,281, 355
+Cayene,165, 118

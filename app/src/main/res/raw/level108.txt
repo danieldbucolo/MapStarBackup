@@ -1,0 +1,8 @@
+Havana,145, 44
+Caracas,208, 97
+La Paz,205, 211
+Joao Pessoa,345, 169
+Florianopolis,292, 255
+Mar del Plata,210,319
+Cancun, 126, 51
+Quito, 156, 142

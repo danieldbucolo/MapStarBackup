@@ -1,0 +1,8 @@
+Damascus,39,46
+Tabriz,80,47
+Bangalore,179,175
+Songkhla,299,205
+Surabaya,372,257
+Samarinda,392,230
+Ulaanbaatar,316,48
+Kunming,301,135

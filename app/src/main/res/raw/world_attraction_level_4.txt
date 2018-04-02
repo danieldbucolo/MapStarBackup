@@ -1,0 +1,16 @@
+Timbuktu- Mali,149,194,world_4_1.jpg
+Angkor Wat- Cambodia,487,145,world_4_2.jpg
+St Vladimir Cathedral- Kiev - Ukraine,339,66,world_4_3.jpg
+Minsk- Belarus,334,58,world_4_4.jpg
+Krakow - Poland,319,69,world_4_5.jpg
+Teatro Colón - Buenos Aires- Argentina,181,256,world_4_6.jpg
+Malbork Castle- Poland,318,60,world_4_7.jpg
+Tallinn- Estonia,327,49,world_4_8.jpg
+Budapesht- Hungary,321,74,world_4_9.jpg
+Old port- Montreal,166,74,world_4_10.jpg
+Mexico City,96,133,world_4_11.jpg
+Temples of Angkor- Cambodia,489,149,world_4_12.jpg
+Oxford University- UK,286,65,world_4_13.jpg
+Great Smoky Mountains National Park- USA,132,97,world_4_14.jpg
+Palace of the Nation- Dushanbe,409,104,world_4_15.jpg
+Island of Mauritius,400,223,world_4_16.jpg

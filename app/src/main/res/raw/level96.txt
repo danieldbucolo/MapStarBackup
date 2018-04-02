@@ -1,0 +1,8 @@
+Al Basrah,68,75
+Hyderabad,182,164
+Moulmein,291,180
+Hanoi,323,149
+Kupang,411,257
+Pusan,419,75
+Lhasa,241,113
+Fuzhou,379,125

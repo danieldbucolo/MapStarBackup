@@ -1,0 +1,8 @@
+Tessalit,82,94
+Agades,118,181
+Mekele,257,137
+Douala,127,191
+Lubumbashi,202,282
+Chipata,224,287
+Tsumeb,161,324
+Berberati,154,187

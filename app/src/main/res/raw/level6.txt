@@ -1,0 +1,10 @@
+Statue of liberty,121,64
+Giza pyramids,264,87
+Mona Lisa painting,226,54
+colosseum amphitheatre,240,65
+tower of pisa,240,65
+taj mahal,340,95
+The Eiffel Tower,226,54
+Big Ben,220,47
+Buckingham Palace,220,47
+Gate of the Sun,213,69

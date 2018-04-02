@@ -1,0 +1,8 @@
+Nanjing,373,106
+Nagpur,185,146
+Padang,298,242
+Legaspi,429,169
+P'yongyang,397,62
+Harbin,375,49
+Yinchuan,312,83
+Medan,292,227

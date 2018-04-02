@@ -1,0 +1,10 @@
+North Dakota,208,38
+Vermont,419,42
+Connecticut,428,68
+Nebraska,215,100
+Indiana,325,106
+Virginia,392,121
+Utah,121,121
+Arkansas,278,167
+Tennessee,329,151
+South Carolina,385,163

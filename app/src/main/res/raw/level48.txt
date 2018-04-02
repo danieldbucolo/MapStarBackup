@@ -1,0 +1,8 @@
+Vilnius,278,106
+Athens,295,240
+Vienna,227,162
+Amsterdam,147,128
+Dublin,73,113
+Copenhagen,195,103
+Bratislava,235,162
+Belgrade,260,185

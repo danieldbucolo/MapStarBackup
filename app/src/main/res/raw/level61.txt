@@ -1,0 +1,8 @@
+Egypt,209,64
+Cote d'Ivoire,54,174
+Nigeria,114,163
+South Africa,188,387
+Angola,159,287
+Sudan,213,134
+Democratic Republic of the Congo,186,228
+Senegal,19,132

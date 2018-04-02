@@ -1,0 +1,8 @@
+Bucharest,310,178
+Bremen,167,122
+Milan,176,184
+Barcelona,100,216
+Liverpool,99,121
+Rotterdam,143,129
+Stuttgart,173,160
+Naples,209,222

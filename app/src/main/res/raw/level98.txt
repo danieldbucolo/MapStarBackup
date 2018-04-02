@@ -1,0 +1,8 @@
+Xi'an,345,97
+Osaka,445,69
+Zamboanga,422,195
+Haiphong,329,153
+Dhaka,244,140
+Nanning,334,136
+Ambon,459,228
+Guangzhou,365,141

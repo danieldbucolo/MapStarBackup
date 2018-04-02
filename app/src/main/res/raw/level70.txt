@@ -1,0 +1,8 @@
+Maputo,228,362
+Port Elizabeth,202,409
+Abuja,112,164
+Ouagadougou,75,146
+Conakry,20,159
+Banjul,10,138
+Niamey,92,140
+Banghazi,171,37

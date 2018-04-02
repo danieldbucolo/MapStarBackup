@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "883506499179",
+    "firebase_url": "https://admob-app-id-7018418709.firebaseio.com",
+    "project_id": "admob-app-id-7018418709",
+    "storage_bucket": "admob-app-id-7018418709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883506499179:android:a4e19da750ed8e44",
+        "android_client_info": {
+          "package_name": "app.mapstargame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883506499179-46ffum6jsllchaur9n1ppbhnacgqe017.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLp1KBOCd36SzM2wK7XUW1atjHrjFvmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

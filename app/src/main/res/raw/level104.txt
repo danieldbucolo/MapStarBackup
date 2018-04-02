@@ -1,0 +1,8 @@
+Mexico City,76,59
+Barbados,233, 80
+Brasilia,297, 200
+Rio de Janeiro,312, 234
+Santiago,206, 280
+Buenos Aires,258, 281
+Cusco,182, 194
+Santiago de Cuba,175, 56

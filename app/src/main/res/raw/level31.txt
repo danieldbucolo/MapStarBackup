@@ -1,0 +1,11 @@
+Eugene,42,57
+Casper,168,84
+Pierre,219,75
+Wichita,235,142
+Madison,298,77
+Lansing,335,75
+Boston,436,53
+San Diego,62,178
+Dallas,248,190
+Nashville,331,150
+Orlando,384,210

@@ -1,0 +1,8 @@
+Cairo,214,46
+Johannesburg,205,367
+Abidjan,62,188
+Khartoum,226,128
+Nouakchott,15,107
+Rabat,62,22
+Nairobi,251,224
+Cape town,164,407

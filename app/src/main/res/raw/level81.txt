@@ -1,0 +1,8 @@
+Lebanon,34,43
+United Arab Emirates,94,112
+India,192,138
+North korea,399,57
+Cambodia,326,184
+Bangladesh,243,140
+Philippines,422,174
+Afghanistan,151,88

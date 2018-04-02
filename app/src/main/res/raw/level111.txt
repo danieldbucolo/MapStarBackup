@@ -1,0 +1,9 @@
+Monterrey,71,33
+Mexico City,74,58
+Georgetown, 242, 113
+St Kitts and Nevis,227,65
+Manta, 146, 147
+Belem,281, 142
+Goiania,294, 221
+Punta Arenas,239, 359
+Antofagasta, 200, 236

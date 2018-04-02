@@ -1,0 +1,8 @@
+Scotland,96,87
+Finland,267,42
+Slovakia,253,155
+Boznia - Herzegovina,243,193
+Ukraine,333,144
+Latvia,278,88
+Macedonia,278,215
+Czech Republic,216,149

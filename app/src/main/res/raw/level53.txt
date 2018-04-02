@@ -1,0 +1,8 @@
+Cardiff,81,124
+Bilbao,63,194
+Genoa,164,195
+Bordeaux,87,179
+Homyel,319,115
+Malmo,203,97
+L'viv,286,144
+Florence,179,200

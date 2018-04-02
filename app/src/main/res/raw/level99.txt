@@ -1,0 +1,8 @@
+Persian Gulf,79,98
+Arabian Sea,121,155
+Bay of Bengal,236,177
+Andaman Sea,278,187
+South China Sea,361,168
+Sea of Jaban,425,52
+Yellow Sea,393,81
+Philippine Sea,414,110

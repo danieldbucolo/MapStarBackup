@@ -1,0 +1,8 @@
+Wales,93,130
+Lithuania,270,103
+Belarus,302,111
+Slovenia,218,181
+Serbia - Montenegro,266,192
+Romania,297,177
+Moldova,325,162
+Georgia,439,172

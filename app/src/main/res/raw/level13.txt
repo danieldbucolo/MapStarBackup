@@ -1,0 +1,15 @@
+Jakarta,394,149
+Taiwan,402,106
+Shanghai,399,82
+Tokyo,424,77
+Kiev,257,47
+Buenos Aires,141,198
+Cape Town,252,193
+Panama City,101,123
+Rio de Janeiro,160,174
+Santiago,119,195
+Miami,106,94
+Montreal,119,57
+Los Angeles,54,82
+Chicago,107,61
+Anchorage,48,33

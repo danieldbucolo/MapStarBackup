@@ -1,0 +1,15 @@
+Denmark,235,39
+Mongolia,364,60
+Sweden,241,28
+Spain,213,69
+East Timor,406,151
+Pakistan,327,91
+South Africa,259,189
+Peru,110,156
+Venezuela,131,123
+Bahamas,115,93
+Morocco,219,79
+Estonia,248,44
+Malaysia,400,129
+Oman,291,110
+North Korea,403,74

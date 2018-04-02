@@ -1,0 +1,8 @@
+Helsinki,267,63
+Nantes,86,166
+Bonn,155,140
+Monaco,149,199
+Malaga,39,243
+Leeds,101,106
+Antalya,364,240
+Lille,124,138

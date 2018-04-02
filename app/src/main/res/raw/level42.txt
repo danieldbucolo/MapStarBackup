@@ -1,0 +1,8 @@
+Portugal,16,218
+Netherlands,148,127
+Austria,214,166
+Russia,381,49
+Bulgaria,303,202
+Switzerland,159,173
+England,103,118
+Iceland,73,25

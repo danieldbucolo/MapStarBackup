@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <FrameLayout android:id="@+id/top_HUD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout android:id="@+id/root_view"
+            android:layout_gravity="center_vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <ImageView android:id="@+id/skin_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/skin_top_portrait"/>
+
+    </FrameLayout>
+
+    <FrameLayout android:id="@+id/bottom_HUD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView android:id="@+id/skin_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/skin_bottom_portrait" />
+
+        <LinearLayout android:id="@+id/objective"
+            android:layout_width="@dimen/game_ui_objective_text_box_width_bottom_port"
+            android:layout_height="@dimen/game_ui_objective_text_box_height_bottom_port"
+            android:layout_marginLeft="@dimen/game_ui_objective_text_box_left_margin_bottom_port"
+            android:layout_marginBottom="@dimen/game_ui_objective_text_box_margin_bottom_port"
+            android:layout_gravity="bottom|left"
+            android:orientation="vertical">
+
+            <TextView android:id="@+id/objective_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_gravity="center"
+                android:layout_marginTop="12dp"
+                android:textSize="@dimen/game_ui_objective_text_size_port"/>
+        </LinearLayout>
+
+        <LinearLayout android:id="@+id/score"
+            android:layout_width="@dimen/game_ui_score_text_box_width_bottom_port"
+            android:layout_height="@dimen/game_ui_score_text_box_height_port"
+            android:layout_marginRight="@dimen/game_ui_objective_left_margin_land"
+            android:layout_marginBottom="@dimen/game_ui_score_margin_bottom_port"
+            android:layout_gravity="bottom|end"
+            android:orientation="vertical">
+
+            <TextView android:id="@+id/score_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_gravity="center_horizontal"
+                android:textSize="15sp"/>
+        </LinearLayout>
+    </FrameLayout>
+</RelativeLayout>

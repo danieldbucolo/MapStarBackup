@@ -1,0 +1,10 @@
+Montana,141,40
+New York,401,56
+Rhode Island,436,64
+South Dakota,212,72
+Illinois,300,110
+West Virginia,373,112
+Nevada,79,109
+Oklahoma,233,162
+North Carolina,389,142
+Georgia,360,179

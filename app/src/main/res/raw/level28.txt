@@ -1,0 +1,11 @@
+Seattle,62,13
+Billings,164,53
+St. Paul,264,62
+Chicago,312,90
+Los Angeles,56,166
+Concord,430,46
+Denver,172,119
+Oklahoma City,139,164
+Atlanta,353,165
+Charlotte,380,147
+Boise,95,70

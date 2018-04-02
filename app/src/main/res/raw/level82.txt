@@ -1,0 +1,8 @@
+Saudi Arabia,39,91
+Oman,85,133
+China,300,100
+Thailand,307,174
+Brunei,376,216
+Jaban,453,61
+Pakistan,162,108
+Indonesia,378,237

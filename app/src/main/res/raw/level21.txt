@@ -1,0 +1,10 @@
+Minnesota,250,49
+New Hampshire,429,45
+New Jersey,419,85
+Kansas,223,132
+Kentucky,336,134
+Maryland,407,100
+Colorado,170,124
+Texas,217,199
+Louisiana,283,204
+Florida,386,222

@@ -1,0 +1,15 @@
+Tehran,323,88
+Bangkok,372,110
+Pyongyang,400,68
+Seoul,405,75
+Buenos Aires,137,200
+Brussels,225,51
+Jakarta,384,147
+Wellington,467,196
+Caracas,117,122
+Baghdad,280,76
+Bucharest,260,62
+Manila,406,109
+Lisbon,210,64
+Hanoi,385,98
+Sao Tome,228,138

@@ -1,0 +1,8 @@
+Aden,30,137
+Vishakhapatnam,211,162
+Vientiane,317,161
+Cebu,421,178
+Nanchang,361,114
+Pontianak,331,238
+Rangoon,281,170
+Jaffna,195,192

@@ -1,0 +1,8 @@
+Amman,27,50
+Jiddah,14,99
+Bandar-e Abbas,96,101
+Bassein,271,169
+Bengkulu,310,251
+Taipei,400,125
+Jinan,361,83
+Chengdu,304,112

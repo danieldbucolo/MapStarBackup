@@ -1,0 +1,8 @@
+Baghdad,64,61
+Mecca,23,103
+Tehran,104,65
+Mobmay,163,158
+Kuala Lumpur,308,222
+Tokyo,459,57
+Changsha,354,117
+Manila,409,166

@@ -1,0 +1,8 @@
+Guayaquil,150, 149
+Sao Luis,307, 152
+Lquique,196, 226
+Asuncion,252, 246
+La Plata,261, 286
+Cali,164, 128
+Punta Arenas, 245, 360
+Aruba, 192, 89

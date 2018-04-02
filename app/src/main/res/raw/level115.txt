@@ -1,0 +1,8 @@
+Comodoro Rivadavia,240,329
+La Paz, 207, 209
+Malpelo,134,125
+Galapagos,102,145
+Juan Fernandez,177,282
+Chiloe,207,317
+Revillagigedo,23,51
+Freeport, 168,30

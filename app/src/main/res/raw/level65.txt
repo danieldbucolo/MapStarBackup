@@ -1,0 +1,8 @@
+Tunisia,127,23
+Mauritania,38,99
+Niger,122,121
+Chad,165,128
+Ethiopia,258,167
+Botswana,189,342
+Sierra Leone,27,167
+Eritrea,260,130

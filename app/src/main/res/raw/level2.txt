@@ -1,0 +1,15 @@
+Uruguay,142,191
+Peru,108,157
+Cuba,111,101
+Spain,215,67
+Ireland,213,45
+France,226,57
+South Korea,403,99
+Madagascar,294,171
+Poland,237,48
+New Zealand,462,200
+Iran,303,86
+Norway,236,28
+India (South),341,117
+Bolivia,125,155
+Italy (south),244,65

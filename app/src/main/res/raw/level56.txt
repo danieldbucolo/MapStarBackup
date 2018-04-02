@@ -1,0 +1,8 @@
+Goteborg,197,85
+Tampere,253,56
+Constanta,332,183
+Edinburgh,105,98
+Leipzig,197,131
+Gavle,225,62
+Vama,283,161
+Izmir,328,229

@@ -1,0 +1,8 @@
+Warsaw,248,124
+Ljublijana,217,178
+Sarajevo,247,194
+Minsk,293,112
+Porto,19,204
+Manchester,97,116
+Lyon,130,183
+Valencia,81,225

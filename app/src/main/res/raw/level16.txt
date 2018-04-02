@@ -1,0 +1,14 @@
+Lyon,225,57
+Milan,238,61
+Zurich,237,54
+Sao Paulo,153,174
+Boston,127,63
+Frankfurt,234,47
+Mexico City,77,104
+Vancouver,58,53
+San francisco,53,74
+Montreal,127,51
+Hong Kong,389,100
+Mumbai,333,103
+Dubai,303,91
+Nairobi,278,139

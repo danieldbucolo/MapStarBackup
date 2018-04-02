@@ -1,0 +1,8 @@
+Glasgow,94,91
+Zaragoza,73,207
+Strasbourg,152,160
+Thessaloniki,285,224
+Mahilyow,312,108
+Bursa,346,218
+Smolensk,321,92
+Trondheim,198,33

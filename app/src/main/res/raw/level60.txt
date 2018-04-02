@@ -1,0 +1,8 @@
+Shannon,49,115
+Dnieper,353,161
+Danube,334,181
+Rhone,127,199
+Tagus,9,221
+Thames,113,130
+Loire,83,163
+Elbe,176,116

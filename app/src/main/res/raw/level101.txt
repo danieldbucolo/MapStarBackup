@@ -1,0 +1,9 @@
+Brazil,280,182
+Mexico,74,62
+Chile,208,290
+Colombia,178, 122
+Peru,170, 184
+Cuba,163,50
+Argentina,233, 285
+El Salvador,111, 83
+Bolivia, 221, 211

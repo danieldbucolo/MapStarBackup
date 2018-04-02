@@ -1,0 +1,8 @@
+Casablanca,58,22
+Sfax,128,24
+NODjamena,150,143
+Asmara,255,125
+Dakar,9,129
+Lome,87,183
+Yaounde,138,194
+Kampala,231,217

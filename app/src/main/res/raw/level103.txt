@@ -1,0 +1,8 @@
+Guyana,240, 120
+Suriname,252, 122
+French Guiana,264, 123
+Uruguay,266, 278
+Dominican Republic,196, 61
+Nicaragua,130, 85
+Guatemala,109, 74
+Trinidad and Tobago,231, 96

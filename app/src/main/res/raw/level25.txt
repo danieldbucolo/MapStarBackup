@@ -1,0 +1,9 @@
+Washington,69,25
+Wisconsin,254,49
+Maine,441,18
+Oregon,58,56
+Lowa,266,93
+Ohio,353,99
+Delaware,416,99
+Arizona,112,169
+Alabama,331,181

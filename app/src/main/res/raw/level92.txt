@@ -1,0 +1,8 @@
+Manama,74,98
+Mashhad,123,68
+Lahore,182,106
+Calcutta,234,141
+Cam Ranh,346,184
+Palur,412,228
+Guiyang,327,124
+Urumqi,237,67

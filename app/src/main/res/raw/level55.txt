@@ -1,0 +1,8 @@
+Stavanger,158,72
+Oulu,259,33
+Chernivtsi,299,149
+Krakow,251,141
+Turin,153,187
+Andorra,103,204
+Aberdeen,108,87
+Brest,71,153

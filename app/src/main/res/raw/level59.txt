@@ -1,0 +1,8 @@
+Black Sea,371,184
+Gulf of Bothnia,235,54
+North Sea,138,97
+Baltic Sea,229,99
+Celtic Sea,50,144
+Aegean Sea,308,231
+Lonian Sea,252,240
+Adriatic Sea,222,207

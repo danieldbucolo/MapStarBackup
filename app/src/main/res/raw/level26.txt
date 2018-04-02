@@ -1,0 +1,11 @@
+Olympia,53,23
+Omaha,247,104
+Escanaba,311,47
+Portland,435,35
+Santa Fc,161,153
+Houston,261,217
+Las Vegas,89,143
+Kansas City,259,121
+Montgomery,338,185
+Helena,126,44
+Albany,410,53

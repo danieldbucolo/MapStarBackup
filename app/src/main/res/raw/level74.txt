@@ -1,0 +1,8 @@
+Gafsa,126,19
+Atar,32,86
+Dire Dawa,267,160
+Bobo Dioulasso,74,143
+Bossangoa,168,177
+Kigali,219,229
+Tabora,236,252
+Walvis Bay,151,347

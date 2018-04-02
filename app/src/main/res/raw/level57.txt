@@ -1,0 +1,8 @@
+Allcant,70,238
+Portsmouth,95,133
+Kristiansand,173,79
+Benevento,216,219
+Bursa,347,217
+Kotka,276,60
+Klaipeda,256,99
+Nice,145,201

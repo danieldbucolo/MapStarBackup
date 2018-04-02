@@ -1,0 +1,8 @@
+Misratah,152,34
+Djanet,119,73
+Gao,87,115
+Faya-Largeau,168,111
+Chisimayu,279,215
+Port Harcourt,112,190
+Kananga,189,246
+Beira,242,330

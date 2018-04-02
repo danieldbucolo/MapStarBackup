@@ -1,0 +1,10 @@
+highest mountain in the world,358,83
+deepest part of the world's oceans,426,105
+Biggest island in the world,176,18
+highest mountain peak in North America,48,28
+Longest river in the world – north target,266,88
+Deepest lake in the world,355,68
+Largest city,422,79
+Highest mountain of Africa,271,143
+Biggest lake in the world,259,70
+Smallest country in the world,240,62

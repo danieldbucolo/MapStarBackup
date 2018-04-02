@@ -1,0 +1,10 @@
+Machu Picchu,184, 193
+Iguazu Falls, 265, 246
+Perito Moreno Glacier,
+Angel Falls, 227, 347
+Monteverde Cloud Forest,131, 99
+Christ the Redeemer, 318, 236
+Saksaywaman, 185, 191
+Las Lajas Sanctuary, 163, 140
+Lake Atitl�n, 107, 77
+Teatro Col�n, 258, 285

@@ -1,0 +1,8 @@
+Algiers,94,58
+Central African Republic,172,179
+Kenya,255,214
+Madagascar,288,335
+Rwanda,219,229
+Somalia,297,181
+Cameroon,141,181
+Ghana,88,170

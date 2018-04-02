@@ -1,0 +1,8 @@
+Doha,78,104
+Kabul,171,84
+Colombo,195,201
+Mandalay,277,148
+Manado,438,211
+Dund-Us,262,45
+Nanning,334,136
+Medina,22,84

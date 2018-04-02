@@ -1,0 +1,16 @@
+Christ the Redeemer- Brazil,205,230,world_1_1.jpg
+Mount Fuji- Japan,540,100,world_1_2.jpg
+Golden Gate Bridge- USA,66,101,world_1_3.jpg
+Eiffel Tower- France,292,71,world_1_.jpg
+Pyramids- Egypt,350,112,world_1_5.jpg
+Taj Mahal- India,443,129,world_1_6.jpg
+The Great Wall of China,495,128,world_1_7.jpg
+Statue of Liberty- USA,165,82,world_1_8.jpg
+Big Ben- UK,286,65,world_1_9.jpg
+Tower of Piza- Italy ,307,84,world_1_10.jpg
+Colliseum- Italy,310,87,world_1_11.jpg
+Empire State Building- USA,168,80,world_1_12.jpg
+The White House- USA,142,93,world_1_13.jpg
+Louvre - France,292,71,world_1_14.jpg
+Sydney Opera House- Australia,571,250,world_1_15.jpg
+Sphinx- Egypt,350,112,world_1_16.jpg

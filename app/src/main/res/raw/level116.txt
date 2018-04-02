@@ -1,0 +1,9 @@
+Amazon,233,145
+Rio Xingu,268,159
+Rio Sao Francisco,310,195
+Rio Magdalena,170,120
+Rio Orinoco,218,114
+Rio Parana,264,256
+Rio Paraguai,255, 224
+Madeira River, 217, 164	
+Rio Tocantins,288,170

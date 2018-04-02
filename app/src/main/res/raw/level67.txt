@@ -1,0 +1,8 @@
+Tunis,133,8
+Algiers,103,8
+Addis Abbaba,254,161
+Freetown,24,167
+Porto Novo,95,180
+Libreville,125,218
+Dar es Salaam,258,256
+Luanda,142,266

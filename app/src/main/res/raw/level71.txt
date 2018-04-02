@@ -1,0 +1,8 @@
+Annaba,113,8
+Taoudenni,69,86
+Juba,225,180
+Monrovia,36,181
+Katsina,120,147
+Bata,270,229
+Brazzaville,152,238
+Bujumbura,216,229

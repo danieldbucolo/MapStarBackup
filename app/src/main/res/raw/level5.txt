@@ -1,0 +1,15 @@
+Gulf of Mexico,89,93
+Arabian Sea,319,107
+Gulf of Guinea,226,141
+Persian Gulf,281,104
+Black sea,245,62
+Hudson Bay,119,38
+Greenland Sea,204,24
+Bering Sea,432,41
+Norwegian Sea,230,18
+Caribbean Sea,106,109
+Tasman Sea,454,193
+Bay of Bengal,357,118
+Laptev Sea,355,7
+Sea of Japan,411,70
+Mediterranean sea,231,69

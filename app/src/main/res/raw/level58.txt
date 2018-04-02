@@ -1,0 +1,8 @@
+Salamanca,36,213
+Plymouth,79,138
+Uppsala,226,68
+Zunch,188,194
+Ancona,204,203
+Kalliningrad,253,106
+La Rochelle,84,170
+Cork,57,118

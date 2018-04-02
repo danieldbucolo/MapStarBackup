@@ -1,0 +1,8 @@
+Antananarivo,293,324
+Lusaka,208,301
+Kinshasa,156,244
+Bangui,169,190
+Accra,80,185
+Bamako,50,142
+Tripoli,150,35
+Alexandria,212,39

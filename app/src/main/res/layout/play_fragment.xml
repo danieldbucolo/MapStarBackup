@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:clipChildren="false">
+
+    <ImageView android:id="@+id/back_button"
+        android:layout_width="@dimen/back_button_width"
+        android:layout_height="@dimen/back_button_width"
+        android:background="@drawable/back_button"
+        android:layout_gravity="right"
+        android:clipToPadding="false"
+        android:scaleType="fitXY"
+        android:layout_marginRight="@dimen/back_button_padding"
+        android:layout_marginTop="@dimen/back_button_padding"/>
+
+    <ImageView android:id="@+id/play_title"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/map_banner"
+        android:layout_centerHorizontal="true" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/level_selector"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"/>
+
+    <TextView android:id="@+id/purchasing_text"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle"
+        android:textSize="20sp"
+        android:text="Click here to unlock all maps and disable advertising!"/>
+</LinearLayout>

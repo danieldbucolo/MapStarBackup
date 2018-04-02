@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, main!</string>
+    <string name="app_name">Map Star!</string>
+    <string name="play_game">Play</string>
+    <string name="high_score">High Scores</string>
+    <string name="options">Options</string>
+    <string name="credits">Credits</string>
+
+<color name="white">#ffffffff</color>
+<color name="black">#000</color>
+<color name="blue">#00bfff</color>
+<string-array name="time"><item>6</item>
+<item>7</item>
+<item>8</item>
+<item>9</item>
+<item>10</item>
+</string-array>
+<string name="about">\n                   Version of the game 1.01.\n\n         Developed by Star Games \n\n</string>
+
+<string-array name="SoundsArray"><item>ON</item>
+<item>Off</item>
+</string-array>
+</resources>

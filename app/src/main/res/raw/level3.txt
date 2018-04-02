@@ -1,0 +1,12 @@
+Washington DC,116,71
+Ottawa,127,54
+Tokyo,418,68
+Beijing,388,73
+Warsaw,237,49
+Moscow,258,42
+Berlin,228,53
+London,216,46
+Brasillia,149,166
+Madrid,218,67
+Paris,220,57
+Havana,101,97

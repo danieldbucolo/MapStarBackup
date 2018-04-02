@@ -1,0 +1,8 @@
+Oslo,192,63
+Moskow,356,83
+Sofia,291,203
+Prague,214,145
+Budapest,256,168
+Paris,118,160
+Madrid,59,217
+London,105,129

@@ -1,0 +1,8 @@
+Hamburg,180,117
+Marseille,128,198
+Seville,33,233
+Birmingham,98,122
+San Marino,194,196
+Hammerfest,234,6
+Bergen,161,59
+Munich,191,160

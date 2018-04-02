@@ -1,0 +1,10 @@
+Rio Grande,245,261
+Brazos,259,229
+Arkansas,288,174
+Ohio,311,117
+Chatta-Hoochee,355,210
+Connecticut,425,31
+Sacramento,33,117
+Pecos,204,225
+Gila,84,188
+Red,277,203

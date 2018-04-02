@@ -1,0 +1,13 @@
+Cape town,251,193
+Santiago,119,189
+Toronto,118,58
+Oslo,238,34
+Canberra,433,197
+Dublin,216,44
+Alexandria,262,84
+Kabul,329,80
+Darwin,420,159
+Osaka,409,81
+Copenhagen,234,41
+St. Petersberg,258,33
+Casablanca,213,82

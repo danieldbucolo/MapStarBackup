@@ -1,0 +1,11 @@
+Spokane,87,19
+Missoula,119,31
+Manhattan,246,125
+Charleston,370,113
+Salt lake City,118,107
+Little Rock,285,165
+Jackson,303,190
+Columbia,384,159
+Grand Forks,230,33
+Frankfort,347,127
+Montpelier,421,36

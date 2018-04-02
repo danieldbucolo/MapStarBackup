@@ -1,0 +1,8 @@
+Lilongwe,235,299
+Windhoek,159,349
+Likasi,202,279
+Man,50,172
+Port Sudan,248,102
+Berbera,289,155
+Kayes,47,137
+Oran,93,8

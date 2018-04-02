@@ -1,0 +1,9 @@
+Mountain Everest,357,86
+Volga river,300,40
+Great Lakes,99,60
+Amazon River,146,134
+Angel Falls,126,122
+Yosemite Falls,53,76
+Mountain Elbrus,279,55
+Mountain McKinley,45,29
+Lake Victoria,274,135

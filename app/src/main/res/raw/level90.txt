@@ -1,0 +1,8 @@
+Sanaa,34,127
+Herat,136,82
+Ahmadabad,166,131
+Da Nang,341,169
+Ambon,459,228
+Seoul,404,68
+Golmud,261,88
+Shenyang,382,60

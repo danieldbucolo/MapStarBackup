@@ -1,0 +1,8 @@
+Ushuaia,237,355
+Recife,342,174
+Arequipa,190,205
+Paranaribo,254,117
+Manaus,243,151
+Dominica,233,77
+loja,152,154
+Belmopan,116,67

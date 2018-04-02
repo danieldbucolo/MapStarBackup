@@ -1,0 +1,16 @@
+Uluru- Northern Territory- Australia,544,234,world_2_1.jpg
+Tokyo Tower- Tokio Japan,542,103,world_2_2.jpg
+Mount Everest- Nepal,461,118,world_2_3.jpg
+Time Square- New York- USA,165,82,world_2_4.jpg
+Bukingam Palace- London- UK,286,65,world_2_5.jpg
+Burj al Arab- Dubail- UAI,392,123,world_2_6.jpg
+Forbidden City- China,491,129,world_2_7.jpg
+Sergada Familia- Barcelona- Spain,290,86,world_2_8.jpg
+The Grand Canyon- USA,76,100,world_2_9.jpg
+Washington Monument- Washington DC- USA,142,93,world_2_10.jpg
+Brandenburg Gate- Berlin,308,67,world_2_11.jpg
+Petra- Jordan,355,112,world_2_12.jpg
+Hagia Sophia- Turkey,332,94,world_2_13.jpg
+Bryce Canyon National Park- Utah- USA,81,102,world_2_14.jpg
+Great Buddha- Japan,542,104,world_2_15.jpg
+Gateway Arch- St. Louis- USA,119,95,world_2_16.jpg

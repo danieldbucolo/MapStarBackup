@@ -1,0 +1,8 @@
+Sweden,213,59
+Spain,51,218
+Germany,172,139
+Hungary,252,171
+Greece,282,232
+Italy,195,208
+France,112,173
+Denmark,179,97

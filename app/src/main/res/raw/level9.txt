@@ -1,0 +1,15 @@
+Indira Gandi,340,95
+Bill Clinton,96,74
+Bob Dylan,92,61
+Arnold Schwarzenegger,233,53
+Adolf Hitler,235,52
+Benito Mussolini,236,56
+Erwin Rommel,234,51
+diego maradona,126,193
+Pele,152,158
+Isaac Newton,220,46
+Albert Einstein,234,52
+Christopher Columbus,235,53
+Maria Sharapova,328,30
+tiger woods,54,81
+Will Smith,116,68

@@ -1,0 +1,8 @@
+Kuwait,67,82
+Kerman,107,88
+Karachi,143,125
+Madras,195,177
+Thimphu,247,127
+Davao,438,189
+Sapporo,444,30
+Guangzhou,365,141

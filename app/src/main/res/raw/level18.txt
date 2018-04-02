@@ -1,0 +1,12 @@
+Hiroshima,413,79
+6th october war,271,87
+Columbus journey start,212,72
+French Revolution,223,50
+Discovery of Electricity,220,52
+Invention Of The Camera,223,50
+Discovery of X-Rays,235,51
+First Flight Into Space,285,41
+September 11 attacks,119,68
+Black Hawk War,94,67
+Bosnian War,248,59
+Iraq War,286,80

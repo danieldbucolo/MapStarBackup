@@ -1,0 +1,13 @@
+Riyadh,285,94
+Wellington,464,198
+Lima,109,150
+Stockholm,244,34
+Singapore,379,132
+Seoul,422,78
+Ottawa,122,55
+Abu Dhabi,307,92
+Islamabad,318,81
+Lisbon,211,67
+Canberra,431,195
+Washington DC,111,72
+Bangkok,373,116

@@ -1,0 +1,9 @@
+Peurto Montt,163,311
+Punta Cana, 205, 63
+Puerto Villarta, 51, 50
+Aracaju,337, 183
+lquitos,176, 153
+Martinique,232, 74
+Belmopan,116,69
+Acapulco,73, 71
+Cayman Islands, 153, 58

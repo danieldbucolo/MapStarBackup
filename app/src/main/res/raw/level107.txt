@@ -1,0 +1,9 @@
+Guadalajara,57, 53
+Guatemala City,107, 77
+St Lucia,232, 78
+Bogota,175, 121
+Salvador (city),333, 125
+Porto Alegre,283, 265
+Belize City, 118, 68
+Hormosillo, 41, 25
+Kingston, 166, 65

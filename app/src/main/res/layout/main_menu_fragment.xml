@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView android:id="@+id/menu_logo"
+        android:layout_width="match_parent"
+        android:layout_height="186dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_above="@+id/play_game_button"
+        android:src="@drawable/mapstar_menu_logo"
+        android:layout_weight="0.38" />
+
+    <ImageButton android:id="@+id/play_game_button"
+        android:layout_width="250dp"
+        android:layout_height="100dp"
+        android:scaleType="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_above="@+id/high_score_button"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/play_button" />
+
+    <ImageButton android:id="@+id/high_score_button"
+        android:layout_width="@dimen/normal_button_width"
+        android:layout_height="@dimen/normal_button_height"
+        android:scaleType="center"
+        android:background="@drawable/score_button"
+        android:layout_above="@+id/options_button"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/main_menu_button_padding"/>
+
+    <ImageButton android:id="@+id/options_button"
+        android:layout_width="@dimen/normal_button_width"
+        android:layout_height="@dimen/normal_button_height"
+        android:background="@drawable/option_button"
+        android:scaleType="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_above="@+id/credits_button"
+        android:layout_marginBottom="@dimen/main_menu_button_padding"/>
+
+    <ImageButton android:id="@+id/credits_button"
+        android:layout_width="@dimen/normal_button_width"
+        android:layout_height="@dimen/normal_button_height"
+        android:scaleType="center"
+        android:background="@drawable/credit_button"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"/>
+</LinearLayout>

@@ -1,0 +1,8 @@
+Suez,222,42
+Batna,115,15
+Tombouctou,77,116
+Atbara,234,107
+Tambacounda,25,138
+Sokode,87,166
+Port Gentil,127,218
+Malange,172,264

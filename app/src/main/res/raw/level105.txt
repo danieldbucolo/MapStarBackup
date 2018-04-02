@@ -1,0 +1,8 @@
+Merida,117, 52
+Panama city,152, 100
+Haiti,187, 63
+Guadeloupe,233, 71
+Salvador,113, 83
+Montevideo,268, 285
+Bogota, 174. 121
+Lima 165, 191

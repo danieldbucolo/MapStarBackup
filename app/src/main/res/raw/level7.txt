@@ -1,0 +1,15 @@
+French Guiana,138,126
+Honduras,95,113
+Swaziland,266,186
+Sri Lanka,345,126
+Maldives,337,138
+Malaysia,376,128
+Seychelles,300,147
+Cape Verde,182,105
+Falkland Islands,158,230
+Ecuador,103,139
+Sao Tome and Principe,236,138
+Portugal,212,63
+Eritrea,278,106
+Kyrgyzstan,331,87
+Tunisia,235,76

@@ -1,0 +1,11 @@
+Portland,45,38
+Cheyenne,179,103
+Des Moines,264,97
+Indianapolis,325,107
+Richmond,401,114
+Hartford,428,65
+Carson City,56,106
+Phoenix,108,176
+Baton Rouge,298,212
+Birmingham,331,175
+Miami,405,240

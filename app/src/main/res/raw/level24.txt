@@ -1,0 +1,9 @@
+Idaho,104,63
+Michigan,329,72
+Massachusetts,432,58
+Wyoming,156,82
+Missouri,274,129
+Pennsylvania,389,85
+California,46,130
+New Mexico,161,172
+Mississippi,308,185

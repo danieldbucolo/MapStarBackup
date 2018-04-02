@@ -1,0 +1,8 @@
+Lisbon,7,220
+Rome,194,215
+Zagreb,228,180
+Berlin,201,127
+Istanbul,339,211
+Kiev,329,135
+Riga,269,87
+Stockholm,234,76

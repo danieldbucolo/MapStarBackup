@@ -1,0 +1,8 @@
+Wuhan,360,114
+Phuket,291,201
+Kathmandu,224,125
+Muscat,101,122
+Ho Chi Minh City,331,193
+Kitakyushu,430,80
+Lanzhou,295,94
+Vinh,329,160

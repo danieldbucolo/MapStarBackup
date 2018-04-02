@@ -1,0 +1,8 @@
+Beirut,23,43
+Riyadh,53,106
+Islamabad,179,97
+Bangkok,301,178
+Beijing,347,65
+Shanghai,395,108
+Jakarta,339,257
+New Delhi,192,113

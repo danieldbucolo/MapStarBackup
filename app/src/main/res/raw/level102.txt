@@ -1,0 +1,8 @@
+Honduras,20,78
+Paraguay,249, 237
+Panama,150,103
+Ecuador,155, 146
+Bolivia,219, 211
+Venezuela,213, 110
+Costa Rica,132, 99
+Belize, 360, 389

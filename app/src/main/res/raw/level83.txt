@@ -1,0 +1,8 @@
+Palestine,23,46
+Iraq,59,61
+Nepal,223,125
+South Korea,411,72
+Malaysia,310,217
+Sri Lanka,199,202
+Iran,100,82
+Singapore,323,228

@@ -1,0 +1,10 @@
+Detroit,43,36
+Sakakawea,221,32
+Kissimmee,393,234
+Moosehead,434,19
+Cadillac,327,62
+Caddo,287,208
+Jocassee,379,161
+Gaston,411,142
+Willoughby,418,39
+Youghiogheny,404,99

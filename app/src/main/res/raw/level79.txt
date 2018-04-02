@@ -1,0 +1,8 @@
+Ndele,178,169
+Parakou,95,161
+Tamale,78,162
+Kankan,31,152
+Hargeysa,285,159
+Tahoua,112,124
+Kisumu,251,203
+Tomasina,162,176

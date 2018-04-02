@@ -1,0 +1,8 @@
+Ireland,60,110
+Norway,193,42
+Belgium,139,140
+Poland,247,128
+Croatia,227,183
+Albania,265,220
+Turkey,388,213
+Estonia,277,75

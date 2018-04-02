@@ -1,0 +1,13 @@
+Mumbai,333,108
+Bangkok,372,122
+Osaka,417,79
+St. Petersburg (Ru),249,41
+Tehran,298,80
+Cape Town,250,187
+Bogota,111,139
+Lima,110,160
+Reykjavik,240,29
+Karachi,313,92
+Harare,261,168
+Boston,123,64
+Paris,222,55

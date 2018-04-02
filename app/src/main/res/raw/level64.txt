@@ -1,0 +1,8 @@
+Libya,161,61
+Liberia,40,182
+Gabon,136,221
+Tanzania,245,252
+Namibia,159,343
+Togo,87,170
+Uganda,230,209
+Zambia,205,298

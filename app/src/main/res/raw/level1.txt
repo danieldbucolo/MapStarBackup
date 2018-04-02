@@ -1,0 +1,17 @@
+Miami - United States,105,94
+Barcelona - Spain,227,61
+Johannesburg - South Africa,264,184
+Munich - Germany,242,51
+Montreal - Canada,121,58
+Cairo - Egypt,264,87
+Paris - France,226,54
+Stockholm - Sweden,240,38
+Tokyo - Japan,418,78
+Sydney - Australia,440,192
+Brasilia - Brazil,144,159
+Rome - Italy,240,65
+Beijing - China,378,63
+Los angeles - United States,55,77
+copenhagen - Denmark,239,41
+New York - United States,121,64
+Moscow - Russia,264,41

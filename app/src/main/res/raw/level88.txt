@@ -1,0 +1,8 @@
+Abu Dhabi,90,112
+Abadan,75,81
+Agra,192,122
+Chiang Mai,295,164
+Palembang,320,242
+Dalian,382,71
+Kashi,199,79
+Banda Aceh,273,220

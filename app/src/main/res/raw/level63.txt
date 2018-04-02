@@ -1,0 +1,8 @@
+Morocco,64,32
+Benin,93,163
+Malawi,236,297
+Zimbabwe,217,330
+Congo,152,221
+Guinea,33,152
+Mali,71,120
+Mozambique,237,325
